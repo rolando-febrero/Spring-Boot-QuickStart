@@ -1,0 +1,383 @@
+!SESSION 2017-10-10 08:19:09.819 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:19:11.058
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:19:11.060
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:19:11.062
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:19:11.064
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:19:11.066
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:19:11.068
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:19:11.069
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:19:11.070
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:19:11.071
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:19:11.072
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:19:11.074
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:19:11.074
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.jface 2 0 2017-10-10 08:19:56.699
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-10-10 08:19:56.699
+!MESSAGE A conflict occurred for ALT+CTRL+R:
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithRevisionCommand,URL...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1484cb57,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e250539,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.ui 4 4 2017-10-10 08:19:58.063
+!MESSAGE Referenced part does not exist yet: com.ibm.etools.ui.navigator.SDExplorer.
+!SESSION 2017-10-10 08:32:01.967 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:32:03.278
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:32:03.279
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:32:03.282
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:32:03.283
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:32:03.284
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:32:03.285
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:32:03.287
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:32:03.288
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:32:03.289
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:32:03.290
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:32:03.291
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:32:03.292
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-10 08:32:09.356
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2017-10-10 08:32:11.598
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-10-10 08:32:11.598
+!MESSAGE A conflict occurred for ALT+CTRL+R:
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithRevisionCommand,URL...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3453cf27,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6ecf239d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2017-10-10 08:35:39.684 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:35:40.982
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:35:40.984
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:35:40.987
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:35:40.988
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:35:40.990
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:35:40.991
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:35:40.992
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:35:40.993
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:35:40.995
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:35:40.996
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:35:40.998
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:35:40.999
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-10 08:35:44.092
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2017-10-10 08:35:46.434
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-10-10 08:35:46.434
+!MESSAGE A conflict occurred for ALT+CTRL+R:
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithRevisionCommand,URL...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@627222d8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@68330024,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:41.720
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:41.723
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:42.910
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:42.914
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:43.971
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:43.974
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:56.975
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:40:56.977
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:41:55.617
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:41:55.619
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:42:06.183
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:42:06.188
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:42:31.046
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:42:31.049
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:44:03.944
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-10-10 08:44:03.946
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-10-10 08:58:19.939 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:58:21.189
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 08:58:21.191
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:58:21.193
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 08:58:21.194
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:58:21.195
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 08:58:21.196
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:58:21.197
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 08:58:21.198
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:58:21.199
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 08:58:21.200
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:58:21.202
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 08:58:21.202
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-10 08:58:23.570
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2017-10-10 08:58:25.811
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-10-10 08:58:25.811
+!MESSAGE A conflict occurred for ALT+CTRL+R:
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithRevisionCommand,URL...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@435a13ac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@38007ead,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2017-10-10 09:18:55.461 -----------------------------------------------
+eclipse.buildId=4.4.1.M20140925-0400
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 09:18:56.871
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.liberty 4 0 2017-10-10 09:18:56.871
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.liberty. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 09:18:56.871
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig 4 0 2017-10-10 09:18:56.871
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 09:18:56.871
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.jboss 4 0 2017-10-10 09:18:56.871
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.jboss. The component header value is component.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 09:18:56.887
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.was 4 0 2017-10-10 09:18:56.887
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.was. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 09:18:56.887
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wasconfig.wls 4 0 2017-10-10 09:18:56.887
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wasconfig.wls. The component header value is cell.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 09:18:56.887
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY com.ibm.issw.migr.osgi.wsadmin 4 0 2017-10-10 09:18:56.887
+!MESSAGE [SCR] Component definition XMLs not found in bundle com.ibm.issw.migr.osgi.wsadmin. The component header value is wsadmin.xml
+
+!ENTRY org.eclipse.core.resources 2 10035 2017-10-10 09:18:59.379
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.jface 2 0 2017-10-10 09:19:01.830
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-10-10 09:19:01.830
+!MESSAGE A conflict occurred for ALT+CTRL+R:
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.eclipse.team.svn.ui.command.CompareWithRevisionCommand,URL...,
+		,
+		Category(org.eclipse.team.svn.ui.command.category,SVN,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5d4a1d2c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(ALT+CTRL+R,
+	ParameterizedCommand(Command(org.python.pydev.debug.setnext,Set Next Statement,
+		,
+		Category(org.python.pydev.ui.category.run,PyDev - Run,Python run category,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@63f093a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)

@@ -1,0 +1,76 @@
+2017-10-10 08:37:39,954 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.jar
+2017-10-10 08:37:40,153 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.jar
+2017-10-10 08:37:41,623 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.pom
+2017-10-10 08:37:41,821 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/apache/maven/archetypes/maven-archetype-site/1.1/maven-archetype-site-1.1.pom
+2017-10-10 08:38:24,382 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\test-ArtifactID\pom.xml
+2017-10-10 08:38:25,675 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: test-groupID:test-ArtifactID:0.0.1-SNAPSHOT @ D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\test-ArtifactID\pom.xml.
+2017-10-10 08:38:26,130 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-ArtifactID/src/main/java
+2017-10-10 08:38:26,132 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /test-ArtifactID/src/test/java
+2017-10-10 08:38:26,816 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2017-10-10 08:38:28,511 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 08:38:28,511 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\test-ArtifactID\src\main\resources
+2017-10-10 08:38:28,513 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-10-10 08:38:28,513 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\test-ArtifactID\src\test\resources
+2017-10-10 08:40:41,272 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Boot-Example:Spring-Boot-Example:0.0.1-SNAPSHOT @ D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\pom.xml.
+2017-10-10 08:40:41,718 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:41,720 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:40:41,722 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:41,724 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:40:41,735 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-Boot-Example/src
+2017-10-10 08:40:41,735 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring-Boot-Example/src/test/java because it overlaps with /Spring-Boot-Example/src
+2017-10-10 08:40:41,812 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-10-10 08:40:42,453 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Spring-Boot-Example:Spring-Boot-Example:0.0.1-SNAPSHOT @ D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\pom.xml.
+2017-10-10 08:40:42,908 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:42,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:40:42,912 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:42,914 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:40:42,924 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Spring-Boot-Example/src
+2017-10-10 08:40:42,925 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /Spring-Boot-Example/src/test/java because it overlaps with /Spring-Boot-Example/src
+2017-10-10 08:40:42,982 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2017-10-10 08:40:43,970 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:43,972 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:40:43,973 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:43,974 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:40:56,973 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:56,975 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:40:56,976 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:40:56,977 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:41:55,615 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:41:55,617 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:41:55,618 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:41:55,619 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:42:06,181 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:42:06,184 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:42:06,186 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:42:06,189 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:42:31,045 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:42:31,047 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:42:31,048 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:42:31,050 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:44:01,430 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example
+2017-10-10 08:44:01,431 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B install
+2017-10-10 08:44:03,942 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:44:03,944 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\main\resources
+2017-10-10 08:44:03,945 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-10-10 08:44:03,947 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example\src\test\resources
+2017-10-10 08:44:45,538 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2017-10-10 08:45:00,878 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\EclipseWorkspace\JAVA_PROJECTS\SpringBoot-Example\Spring-Boot-Example
+2017-10-10 08:45:00,878 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2017-10-10 08:45:02,608 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/springframework/boot/spring-boot-starter-parent/1.5.1.RELEASE/spring-boot-starter-parent-1.5.1.RELEASE.pom
+2017-10-10 08:45:02,852 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/springframework/boot/spring-boot-starter-parent/1.5.1.RELEASE/spring-boot-starter-parent-1.5.1.RELEASE.pom
+2017-10-10 08:45:03,226 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom
+2017-10-10 08:45:03,741 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/springframework/boot/spring-boot-dependencies/1.5.1.RELEASE/spring-boot-dependencies-1.5.1.RELEASE.pom
+2017-10-10 08:45:03,968 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/com/fasterxml/jackson/jackson-bom/2.8.6/jackson-bom-2.8.6.pom
+2017-10-10 08:45:04,172 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/com/fasterxml/jackson/jackson-bom/2.8.6/jackson-bom-2.8.6.pom
+2017-10-10 08:45:04,382 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom
+2017-10-10 08:45:04,575 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom
+2017-10-10 08:45:04,783 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/com/fasterxml/oss-parent/27/oss-parent-27.pom
+2017-10-10 08:45:04,979 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/com/fasterxml/oss-parent/27/oss-parent-27.pom
+2017-10-10 08:45:05,188 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom
+2017-10-10 08:45:05,379 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom
+2017-10-10 08:45:05,590 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/springframework/data/spring-data-releasetrain/Ingalls-RELEASE/spring-data-releasetrain-Ingalls-RELEASE.pom
+2017-10-10 08:45:05,782 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/springframework/data/spring-data-releasetrain/Ingalls-RELEASE/spring-data-releasetrain-Ingalls-RELEASE.pom
+2017-10-10 08:45:06,001 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/springframework/security/spring-security-bom/4.2.1.RELEASE/spring-security-bom-4.2.1.RELEASE.pom
+2017-10-10 08:45:06,193 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/springframework/security/spring-security-bom/4.2.1.RELEASE/spring-security-bom-4.2.1.RELEASE.pom
+2017-10-10 08:45:06,572 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repository.rnd.amadeus.net/public/org/springframework/boot/spring-boot-maven-plugin/1.5.1.RELEASE/spring-boot-maven-plugin-1.5.1.RELEASE.pom
+2017-10-10 08:45:06,762 [Worker-7] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repository.rnd.amadeus.net/public/org/springframework/boot/spring-boot-maven-plugin/1.5.1.RELEASE/spring-boot-maven-plugin-1.5.1.RELEASE.pom
